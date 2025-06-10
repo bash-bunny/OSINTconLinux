@@ -1,6 +1,6 @@
 # OSINT con Linux
 
-Curso de OSINT con Linux donde se aprenderan a realizar investigaciones OSINT con el famoso pinguino.
+Curso de OSINT con Linux donde se aprenderá a realizar investigaciones OSINT con el famoso pinguino.
 
 ## Modulos
 
