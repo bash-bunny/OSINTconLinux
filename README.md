@@ -2,7 +2,7 @@
 
 Curso de OSINT con Linux donde se aprenderá a realizar investigaciones OSINT con el famoso pinguino.
 
-## Modulos
+## Módulos
 
 - [Módulo 1: Instalacion y manejo de Kali Linux](Modulo1/README.md)
 - [Módulo 2: Busqueda de informacion en dominios y subdominios](Modulo2/README.md)
