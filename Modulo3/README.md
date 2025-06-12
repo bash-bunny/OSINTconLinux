@@ -1,6 +1,28 @@
 # Modulo 3: Herramientas de búsqueda de Perfiles
 
-Conjunto de herramientas para buscar perfiles online, sin necesidad de API, solo a traves de la terminal.
+Conjunto de herramientas para la busqueda de nicks en diversas paginas web y redes sociales.
+
+## Vídeos
+
+### Módulo 3.1: Sherlock
+
+[![Módulo 3.1: Sherlock](https://img.youtube.com/vi/7DliXgvP034/0.jpg)](https://www.youtube.com/watch?v=7DliXgvP034)
+
+### Módulo 3.2: WhatsMyName
+
+[![Módulo 3.2: WhatsMyName](https://img.youtube.com/vi/sFiCj6X1gSw/0.jpg)](https://www.youtube.com/watch?v=sFiCj6X1gSw)
+
+### Módulo 3.3: Profil3r
+
+[![Módulo 3.2: Profil3r](https://img.youtube.com/vi/3M1mjn1iOog/0.jpg)](https://www.youtube.com/watch?v=3M1mjn1iOog)
+
+### Módulo 3.4: Nexfil
+
+[![Módulo 3.2: Nexfil](https://img.youtube.com/vi/QLSVaeVIQd4/0.jpg)](https://www.youtube.com/watch?v=QLSVaeVIQd4)
+
+### Módulo 3.5: EagleEye
+
+[![Módulo 3.5: EagleEye](https://img.youtube.com/vi/dVd13tTwC1s/0.jpg)](https://www.youtube.com/watch?v=dVd13tTwC1s)
 
 ## Recursos
 

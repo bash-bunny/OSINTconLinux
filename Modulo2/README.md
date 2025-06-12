@@ -2,7 +2,7 @@
 
 Herramientas para enumerar dominios, subdominios, encontrar que tecnologia que estan usando las paginas web, hacer capturas de pantalla de una o multiples URLs al tiempo y mucho mas.
 
-## Videos
+## Vídeos
 
 ### Modulo 2.1: WaybackURLS
 
@@ -14,15 +14,15 @@ Herramientas para enumerar dominios, subdominios, encontrar que tecnologia que e
 
 ### Módulo 2.3: AssetFinder & HTTProbe
 
-- [![Modulo 2.3: AssetFinder & HTTProbe](https://img.youtube.com/vi/bSTFiwIXWZc/0.jpg)](https://www.youtube.com/watch?v=bSTFiwIXWZc)
+[![Modulo 2.3: AssetFinder & HTTProbe](https://img.youtube.com/vi/bSTFiwIXWZc/0.jpg)](https://www.youtube.com/watch?v=bSTFiwIXWZc)
 
 ### Módulo 2.4: Aquatone & Gowitness
 
-- [![Modulo 2.4: Aquatone & Gowitness](https://img.youtube.com/vi/e2qlPQupUwU/0.jpg)](https://www.youtube.com/watch?v=e2qlPQupUwU)
+[![Modulo 2.4: Aquatone & Gowitness](https://img.youtube.com/vi/e2qlPQupUwU/0.jpg)](https://www.youtube.com/watch?v=e2qlPQupUwU)
 
 ### Módulo 2.5: Amass
 
-- [![Modulo 2.5: Amass](https://img.youtube.com/vi/vhKXlFs56R0/0.jpg)](https://www.youtube.com/watch?v=vhKXlFs56R0)
+[![Modulo 2.5: Amass](https://img.youtube.com/vi/vhKXlFs56R0/0.jpg)](https://www.youtube.com/watch?v=vhKXlFs56R0)
 
 ## Recursos
 

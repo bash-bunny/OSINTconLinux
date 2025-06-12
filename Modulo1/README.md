@@ -5,7 +5,7 @@ Completa instalación de Kali Linux usando VirtualBox para la realización del c
 - Manejo de Ficheros
 - Regex
 
-## Videos
+## Vídeos
 
 ### Módulo 1.1: Instalación de Kali Linux
 
