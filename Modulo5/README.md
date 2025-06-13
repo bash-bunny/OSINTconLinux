@@ -6,7 +6,7 @@ Herramientas para tratar de encontrar posibles ataques de ingeniría social y co
 
 ### Módulo 5: dnstwist
 
-[![Módulo 5: dnstwist](https://img.youtube.com/vi/3IcA2rDfE/0.jpg)](https://www.youtube.com/watch?v=3IcA2rDfE)
+[![Módulo 5: dnstwist](https://img.youtube.com/vi/i-3IcA2rDfE/0.jpg)](https://www.youtube.com/watch?v=i-3IcA2rDfE)
 
 ### Módulo 5: Seeker & Ngrok
 
