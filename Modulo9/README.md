@@ -14,5 +14,5 @@ Explicación de que son los metadatos y como se pueden extraer, filtrar y modifi
 
 ## Recursos
 
-- Exiftool: https://github.com/exiftool/exiftool
-- Pymeta: https://github.com/m8r0wn/pymeta
+- Exiftool: [https://github.com/exiftool/exiftool](https://github.com/exiftool/exiftool)
+- Pymeta: [https://github.com/m8r0wn/pymeta](https://github.com/m8r0wn/pymeta)

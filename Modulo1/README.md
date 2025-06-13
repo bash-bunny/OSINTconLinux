@@ -25,23 +25,23 @@ Completa instalación de Kali Linux usando VirtualBox para la realización del c
 
 ## Recursos
 
-- VMWare: https://www.vmware.com/products/workstation-player.html
-- Virtualbox: https://www.virtualbox.org/wiki/Downloads
-- Kali Linux: https://www.kali.org/get-kali/#kali-virtual-machines
-- Instalacion Kali Linux iso: https://www.kali.org/docs/installation/hard-disk-install/
+- VMWare: [https://www.vmware.com/products/workstation-player.html](https://www.vmware.com/products/workstation-player.html)
+- Virtualbox: [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+- Kali Linux: [https://www.kali.org/get-kali/#kali-virtual-machines](https://www.kali.org/get-kali/#kali-virtual-machines)
+- Instalacion Kali Linux iso: [https://www.kali.org/docs/installation/hard-disk-install/](https://www.kali.org/docs/installation/hard-disk-install/)
 - Otros Sistemas Operativos:
-    - Debian: https://www.debian.org/download
-    - Arch: https://archlinux.org
-    - Parrot OS: https://www.parrotsec.org
-    - BlackArch: https://www.blackarch.org
+    - Debian: [https://www.debian.org/download](https://www.debian.org/download)
+    - Arch: [https://archlinux.org](https://archlinux.org)
+    - Parrot OS: [https://www.parrotsec.org](https://www.parrotsec.org)
+    - BlackArch: [https://www.blackarch.org](https://www.blackarch.org)
 - Shells:
-    - ZSH: https://wiki.archlinux.org/title/Zsh
-        - OhMyZsh: https://ohmyz.sh
-    - Fish: https://fishshell.com
+    - ZSH: [https://wiki.archlinux.org/title/Zsh](https://wiki.archlinux.org/title/Zsh)
+        - OhMyZsh: [https://ohmyz.sh](https://ohmyz.sh)
+    - Fish: [https://fishshell.com](https://fishshell.com)
 - Permisos ficheros Linux:
-    - https://aprendolinux.com/como-leer-cambiar-los-permisos-en-linux/
+    - [https://aprendolinux.com/como-leer-cambiar-los-permisos-en-linux/](https://aprendolinux.com/como-leer-cambiar-los-permisos-en-linux/)
 - Regex:
-    - https://regex101.com/
+    - [https://regex101.com/](https://regex101.com/)
 
 ## Comandos
 

@@ -26,17 +26,17 @@ Conjunto de herramientas para la busqueda de nicks en diversas paginas web y red
 
 ## Recursos
 
-- Sherlock: https://github.com/sherlock-project/sherlock
-- Whatsmyname: https://github.com/webbreacher/whatsmyname
-	- Web: https://whatsmyname.app
-- Profil3r: https://github.com/Greyjedix/Profil3r
-- Nexfil: https://github.com/thewhiteh4t/nexfil
+- Sherlock: [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+- Whatsmyname: [https://github.com/webbreacher/whatsmyname](https://github.com/webbreacher/whatsmyname)
+	- Web: [https://whatsmyname.app](https://whatsmyname.app)
+- Profil3r: [https://github.com/Greyjedix/Profil3r](https://github.com/Greyjedix/Profil3r)
+- Nexfil: [https://github.com/thewhiteh4t/nexfil](https://github.com/thewhiteh4t/nexfil)
 
 **Nota**: el proyecto de `whatsmyname` ya no tiene herramienta publica, pero podeis encontrar una en mi repositorio.
 
 ### WhatMyName by BashBunny
 
-En el repositorio https://github.com/bash-bunny/WhatsMyName podeis encontrar una version propia de la herramienta.
+En el repositorio [https://github.com/bash-bunny/WhatsMyName](https://github.com/bash-bunny/WhatsMyName) podeis encontrar una version propia de la herramienta.
 
 Como se indica en el repositorio hace uso del fichero `wmn-data.json` que es propio de WebBreacher, y conviene actualizarlo a menudo.
 

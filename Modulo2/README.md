@@ -26,15 +26,15 @@ Herramientas para enumerar dominios, subdominios, encontrar que tecnologia que e
 
 ## Recursos
 
-- AssetFinder: https://github.com/tomnomnom/assetfinder
-- Httpprobe: https://github.com/tomnomnom/httprobe
-- Whatweb: https://morningstarsecurity.com/research/whatweb
+- AssetFinder: [https://github.com/tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder)
+- Httpprobe: [https://github.com/tomnomnom/httprobe](https://github.com/tomnomnom/httprobe)
+- Whatweb: [https://morningstarsecurity.com/research/whatweb](https://morningstarsecurity.com/research/whatweb)
 - Waybackurls: 
-	- https://github.com/tomnomnom/waybackurls
-	- http://web.archive.org
-- Aquatone: https://github.com/michenriksen/aquatone
-- Gowitness: https://github.com/sensepost/gowitness
-- Amass: https://github.com/OWASP/Amass
+	- [https://github.com/tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
+	- [http://web.archive.org](http://web.archive.org)
+- Aquatone: [https://github.com/michenriksen/aquatone](https://github.com/michenriksen/aquatone)
+- Gowitness: [https://github.com/sensepost/gowitness](https://github.com/sensepost/gowitness)
+- Amass: [https://github.com/OWASP/Amass](https://github.com/OWASP/Amass)
 
 ## Comandos
 
@@ -48,4 +48,3 @@ go install github.com/tomnomnom/httprobe@latest
 # Instalacion de la herramienta gowitness
 go install github.com/tomnomnom/gowitness@latest
 ```
-

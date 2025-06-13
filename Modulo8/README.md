@@ -26,8 +26,8 @@ Repaso de los frameworks orientados a OSINT mas famosos y actuales, como mediant
 
 ## Recursos
 
-- Maltego: https://www.maltego.com
-- Maryam: https://owasp.org/www-project-maryam/
-- Recon-ng: https://www.kali.org/tools/recon-ng/
-- Sipderfoot: https://www.spiderfoot.net
-- TheHarvester: https://www.kali.org/tools/theharvester/
+- Maltego: [https://www.maltego.com](https://www.maltego.com)
+- Maryam: [https://owasp.org/www-project-maryam/](https://owasp.org/www-project-maryam/)
+- Recon-ng: [https://www.kali.org/tools/recon-ng/](https://www.kali.org/tools/recon-ng/)
+- Sipderfoot: [https://www.spiderfoot.net](https://www.spiderfoot.net)
+- TheHarvester: [https://www.kali.org/tools/theharvester/](https://www.kali.org/tools/theharvester/)

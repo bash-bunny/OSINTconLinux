@@ -10,5 +10,5 @@ Como podemos usar proxies en nuestras investigaciones OSINT, tanto de la surface
 
 ## Recursos
 
-- Tor & Torsocks: https://www.torproject.org
-- Proxychains: https://github.com/haad/proxychains
+- Tor & Torsocks: [https://www.torproject.org](https://www.torproject.org)
+- Proxychains: [https://github.com/haad/proxychains](https://github.com/haad/proxychains)

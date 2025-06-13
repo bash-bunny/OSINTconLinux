@@ -20,5 +20,5 @@ Como realizar búsquedas pasivas de dominios e IPs usando Shodan, y como tratar 
 
 ## Recursos
 
-- Shodan: https://www.shodan.io
-- Geowifi: https://github.com/GONZOsint/geowifi
+- Shodan: [https://www.shodan.io](https://www.shodan.io)
+- Geowifi: [https://github.com/GONZOsint/geowifi](https://github.com/GONZOsint/geowifi)

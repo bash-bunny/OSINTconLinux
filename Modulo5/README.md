@@ -15,5 +15,5 @@ Herramientas para tratar de encontrar posibles ataques de ingeniría social y co
 
 ## Recursos
 
-- Dnstwister: https://github.com/elceef/dnstwist
-- Seeker: https://github.com/thewhiteh4t/seeker
+- Dnstwister: [https://github.com/elceef/dnstwist](https://github.com/elceef/dnstwist)
+- Seeker: [https://github.com/thewhiteh4t/seeker](https://github.com/thewhiteh4t/seeker)
